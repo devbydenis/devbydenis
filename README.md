@@ -5,7 +5,7 @@
 
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis%20Rahmadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbydenis/)
-[![Gmail](https://img.shields.io/badge/Gmail-hello.devbydenis-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.devbydenis@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-hello.devbydenis-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.denisrahmadi@gmail.com)
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=550&lines=Building+robust+backend+systems+%F0%9F%9A%80;Golang+%7C+TypeScript+%7C+REST+APIs;Crafting+scalable+server-side+solutions)](https://git.io/typing-svg)
