@@ -98,21 +98,11 @@ func main() {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=denisrahmadi&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=denisrahmadi&theme=tokyo-night&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=ffffff&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devbydenis&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
