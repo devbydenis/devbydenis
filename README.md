@@ -22,22 +22,22 @@ package main
 import "fmt"
 
 type Developer struct {
-	Name        string
-	Role        string
-	CurrentWork string
-	Learning    []string
-	Passion     string
-	Contact     string
+	Name        	string
+	Role            string
+	CurrentProject  string
+	Learning    	[]string
+	Passion     	string
+	Contact     	string
 }
 
 func main() {
 	me := Developer{
-		Name:        "Denis Rahmadi",
-		Role:        "Backend Developer",
-		CurrentWork: "Warehouse & POS Management System (Golang)",
-		Learning:    []string{"Golang (Gin, Fiber)", "TypeScript (Express, NestJS)"},
-		Passion:     "Web Development — especially the Backend side",
-		Contact:     "hello.devbydenis@gmail.com",
+		Name:           "Denis Rahmadi",
+		Role:           "Backend Developer",
+		CurrentProject: "Warehouse & POS Management System (Golang)",
+		Learning:       []string{"Golang (Gin, Fiber)", "TypeScript (Express, NestJS)"},
+		Passion:        "Web Development — especially the Backend side",
+		Contact:        "hello.denisrahmadi@gmail.com",
 	}
 	fmt.Println(me)
 }
